@@ -1,3 +1,13 @@
+## Membros do Grupo   
+
+| Nome                            | RA |
+|--------------------------------|--------- |
+| André Lucas Fabbris de Toledo   | 1902777 |
+| Bruno Alkimim de Negreiros      | 1902646 |
+| Lucas de Alencar Silva          | 1902989 |
+| Mariana Rodrigues Zubi da Silva | 1904204 |
+| Milena Bispo Gomes              | 1904052 |
+    
 # AC2 - Estrutura de Dados
 1. Desenvolva um projeto no GitHub que Implemente os testes o TAD Lista Arranjo.<br>***R:** /tests/ac2.test.ex1*
 2. Desenvolva um projeto no GitHub que estenda a classe de testes do TAD Pilha
